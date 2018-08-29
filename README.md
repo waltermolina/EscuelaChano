@@ -10,5 +10,3 @@ Proyecto de Ejemplo para 111Mil (ET18 Villa Mercedes, San Luis)
     |LI LI LI LI||LI||LI||LI||LI LI LI LI|
     |.. .. .. ..||..||..||..||.. .. .. ..|
     |LI LI LI LI||LI||LI||LI||LI LI LI LI|
- ,,;;,;;;,;;;,;;;,;;;,;;;,;;;,;;,;;;,;;;,;;,,
-;;jgs;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
