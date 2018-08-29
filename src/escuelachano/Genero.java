@@ -4,6 +4,8 @@ public class Genero {
     private int idGenero;
     private String descripcion;
     
+    //Comentario de prueba
+    
     public Genero(int idGenero, String descripcion){
         this.idGenero = idGenero;
         this.descripcion = descripcion;
